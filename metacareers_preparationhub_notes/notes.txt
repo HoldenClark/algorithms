@@ -1,0 +1,46 @@
+#===========================================#
+# Big O Notation                            #
+#===========================================#
+
+1. Include all things
+2. Use logical variable names
+3. Define the variables you need
+4. adding vs multiplying
+5. drop constants
+6. use big O for space too, remember the call stack
+7. drop non-dominant terms
+
+#===========================================#
+# Problem Solving                           #
+#===========================================#
+
+# 7 steps
+1. Listen (for the clues)
+2. Draw an example (large + generic, avoid special cases)
+└ large enough your brain has to do work
+3. Brute force
+4. Optimize
+5. Walk through the algorithm
+6. Code
+7. Verification
+
+# Optimizing with BUD
+Bottlenecks.
+Unnecessary work.
+Duplicated work.
+
+How to use space and time complexity
+Hash tables
+Pre-computation
+Tries
+
+#Best Conceivable Runtime (BCR)
+
+#Problem Solving with DIY
+Reverse engineer your intuitive process
+Pay attention to any short circuiting or tricks
+
+
+#===========================================#
+# Coding                                    #
+#===========================================#
